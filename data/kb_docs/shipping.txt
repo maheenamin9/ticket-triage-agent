@@ -1,0 +1,35 @@
+PulseTrack Shipping and Returns Policy
+
+Order processing
+- Orders placed before 2pm ET ship the same business day; orders placed
+  after 2pm ET ship the next business day.
+- Orders are not processed on weekends or public holidays.
+
+Shipping options and delivery times (domestic)
+- Standard shipping: 3-5 business days, free on orders over $50.
+- Expedited shipping: 1-2 business days, flat rate $12.99.
+- International shipping is available to select countries and typically
+  takes 7-14 business days; customs fees may apply and are the
+  responsibility of the customer.
+
+Tracking
+- A tracking number is emailed automatically as soon as a label is
+  created, usually within a few hours of the order shipping.
+- Tracking can also be viewed under Account > Orders > Order Details.
+- If a tracking number shows no movement for more than 5 business days,
+  contact support@pulsetrack.example so we can open a carrier trace.
+
+Lost or damaged packages
+- If a package arrives damaged, keep all packaging and photograph the
+  item; contact support within 7 days of delivery for a free replacement.
+- If a package is marked delivered but not received, we ask customers to
+  check with neighbors/building management and wait 48 hours before we
+  file a carrier investigation.
+
+Returns
+- PulseTrack devices can be returned unused or used within 30 days of
+  delivery for a full refund to the original payment method.
+- Return shipping is free using the prepaid label available under
+  Account > Orders > Start a Return.
+- Refunds are issued within 5-7 business days after the returned item is
+  received and inspected.

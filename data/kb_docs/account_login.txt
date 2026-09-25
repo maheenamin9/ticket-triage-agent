@@ -1,0 +1,36 @@
+PulseTrack Account and Login Policy
+
+Account creation
+- A PulseTrack account requires a valid email address and password, or
+  sign-in via Google or Apple SSO.
+- Each account may be linked to one PulseTrack device at a time; a device
+  must be unpaired before it can be linked to a different account.
+
+Password reset
+- Users can reset their password from the app's login screen via
+  "Forgot Password," which sends a reset link valid for 60 minutes.
+- If the reset email does not arrive within 10 minutes, check spam/junk
+  folders before contacting support, since delivery delays are the most
+  common cause.
+
+Two-factor authentication (2FA)
+- 2FA is optional but recommended, and can be enabled under
+  Account > Security > Two-Factor Authentication using an authenticator
+  app.
+- If a user is locked out due to a lost 2FA device, support can verify
+  identity and disable 2FA after confirming the account email and the
+  last 4 digits of the payment method on file.
+
+Common login issues
+- "Invalid credentials" errors are most often caused by an outdated app
+  version; users should update to the latest version before retrying.
+- Accounts are temporarily locked for 15 minutes after 5 failed login
+  attempts as a security measure.
+- Users who signed up via Google/Apple SSO cannot log in with a password
+  and must use the original SSO provider.
+
+Account deletion
+- Users can request account deletion from Account > Privacy > Delete
+  Account, or by emailing support@pulsetrack.example.
+- Deletion is permanent after a 30-day grace period, during which the
+  request can be cancelled by logging back in.

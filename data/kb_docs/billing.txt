@@ -1,0 +1,36 @@
+PulseTrack Billing Policy
+
+PulseTrack offers two subscription tiers for the companion app: PulseTrack
+Free and PulseTrack Plus ($7.99/month or $69/year). The device itself is a
+one-time purchase and is not billed on a subscription.
+
+Billing cycle
+- Plus subscriptions renew automatically on the same day each month (or
+  year) as the original purchase date.
+- Invoices are emailed to the account's registered email address within
+  24 hours of each charge and are also available under Account > Billing
+  History in the app.
+
+Payment methods
+- We accept major credit/debit cards and PayPal.
+- To update a payment method, go to Account > Billing > Payment Methods.
+  There is no need to cancel and re-subscribe.
+
+Failed payments
+- If a renewal payment fails, we retry automatically for 3 days. During
+  this window Plus features remain active.
+- After 3 failed attempts, the account is downgraded to PulseTrack Free
+  and the user is notified by email.
+
+Refunds
+- Annual Plus subscriptions are eligible for a full refund within 14 days
+  of purchase if requested via support@pulsetrack.example.
+- Monthly subscriptions are non-refundable once a billing cycle has
+  started, but users can cancel at any time to stop future charges.
+- Device purchases follow the 30-day return policy described in the
+  shipping and returns document.
+
+Cancellation
+- Plus can be cancelled anytime from Account > Billing > Cancel
+  Subscription. Access continues until the end of the current paid period.
+- Cancelling does not delete workout history or account data.
